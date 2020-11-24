@@ -1,0 +1,6 @@
+[submodule "spindown"]
+	path = spindown
+	url = https://github.com/ps-jay/spindown.git
+[submodule "pguest"]
+	path = pguest
+	url = https://github.com/ps-jay/pguest.git
